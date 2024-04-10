@@ -20,7 +20,7 @@ A live demo of this dashboard is not currently available. However, the code prov
 ### Installation:
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/tailwind-pages-dashboard.git
+    git clone https://github.com/angelob120/Store-Dashboard
     ```
     **Use code with caution.**
 2. Navigate to the project directory:
